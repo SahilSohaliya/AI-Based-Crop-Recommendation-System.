@@ -1,0 +1,1 @@
+run :- python -m uvicorn api:app --app-dir app --reload 
